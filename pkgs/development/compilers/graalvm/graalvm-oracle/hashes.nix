@@ -36,8 +36,8 @@
       url = "https://download.oracle.com/graalvm/17/archive/graalvm-jdk-17.0.12_macos-x64_bin.tar.gz";
     };
     "aarch64-darwin" = {
-      hash = "sha256-TN/cbJOV9nc+/NGRtmBfG3yOG3irkAq1z/NHIKP+/8U=";
-      url = "https://download.oracle.com/graalvm/17/archive/graalvm-jdk-17.0.12_macos-aarch64_bin.tar.gz";
+      hash = "sha256-EFbc9Y/x95bfuoy1VM1BcgGG7M+nNvX+CGShM/5R9Ew=";
+      url = "https://download.oracle.com/graalvm/17/archive/graalvm-jdk-17.0.9_macos-aarch64_bin.tar.gz";
     };
   };
 }
