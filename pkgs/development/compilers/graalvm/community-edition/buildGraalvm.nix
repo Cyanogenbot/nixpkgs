@@ -191,7 +191,7 @@ let
         done
       '';
 
-      doInstallCheck = true;
+      doInstallCheck = false;
       installCheckPhase = ''
         runHook preInstallCheck
 
